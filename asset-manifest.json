@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-doyuf.github.io/static/css/main.4d18f087.css",
+    "main.js": "/react-doyuf.github.io/static/js/main.301f0f0e.js",
+    "static/js/453.47cd05c1.chunk.js": "/react-doyuf.github.io/static/js/453.47cd05c1.chunk.js",
+    "index.html": "/react-doyuf.github.io/index.html",
+    "main.4d18f087.css.map": "/react-doyuf.github.io/static/css/main.4d18f087.css.map",
+    "main.301f0f0e.js.map": "/react-doyuf.github.io/static/js/main.301f0f0e.js.map",
+    "453.47cd05c1.chunk.js.map": "/react-doyuf.github.io/static/js/453.47cd05c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d18f087.css",
+    "static/js/main.301f0f0e.js"
+  ]
+}
